@@ -4,7 +4,7 @@ This repository holds definitions for semantic segmentation DNNs based on the [i
 
 ## code
 
-t.b.d.
+* [pruned & dilated inception-resnet-v2 (PD-IR2)](https://github.com/MalteOeljeklaus/incept_resnet2_segmentation/tree/master/PD-IR2)
 
 ## evaluation
 
